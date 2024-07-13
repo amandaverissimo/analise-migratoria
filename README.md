@@ -49,3 +49,4 @@ QTD: Quantidade de imigrantes admitidos<br>
 <br>
 **Pipeline de ETL**
 
+![Pipeline de ETL Light drawio](https://github.com/user-attachments/assets/7a902ac9-5154-4269-8af8-305d23a0f98d)
